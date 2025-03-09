@@ -33,8 +33,7 @@ Ministry of Defence
 ```
 
 ## Proposed Solution / Architecture Diagram
-![Screenshot 2025-03-10 041533](https://github.com/user-attachments/assets/f07c049d-9002-49aa-932f-c4ae3197252a)
-
+![Screenshot 2025-03-10 034941](https://github.com/user-attachments/assets/ae059965-40a3-4140-aadb-c910c8b554ec)
 
 
 
@@ -64,7 +63,7 @@ Detailed scoring with candidate strengths/weaknesses is provided.
 Report assists in final selection and promotions.
 
 ```
-![Screenshot 2025-03-10 041316](https://github.com/user-attachments/assets/d98066f0-8bc8-41e9-b6bd-db0ced3522b9)
+
 
 
 ## Technology Stack
